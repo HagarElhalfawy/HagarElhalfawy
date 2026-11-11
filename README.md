@@ -38,7 +38,7 @@ A clinic management system to support clinic operations.
 ### [CST – E-Commerce Website](https://github.com/CST-project1/CST-Project)
 *Team project, training*
 A perfume e-commerce website.
-- **Tech:** HTML, CSS, JavaScript
+- **Tech:** HTML, CSS, JavaScript, Local Storage.
 
 
 ---
